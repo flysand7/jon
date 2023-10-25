@@ -26,7 +26,7 @@ JSON:
 
 JON:
 
-```json
+```
 name "Jon"
 age 30
 hobbies [
